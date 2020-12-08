@@ -1,4 +1,4 @@
-package naturalnumbers;
+//package naturalnumbers;
 /**
  * @(#)SumofNaturalNumbers.java
  * This code calculates the sum of natural numbers up to (Integer.Max_Value-5 = 2147483642)
